@@ -1,0 +1,29 @@
+{
+  "name": "expensetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1",
+    "react-redux": "^7.1.1",
+    "@reduxjs/toolkit": "^1.2.5",
+    "web-vitals": "^2.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
